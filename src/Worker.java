@@ -2,6 +2,7 @@ public class Worker extends Person {
     /**
      * Variables
      */
+    
     private double hourlyPayRate;
 
     /**
