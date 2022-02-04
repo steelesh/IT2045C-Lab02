@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class InheritanceDemo {
 
     public static void main(String[] args) {
+
         Worker worker1 = new Worker("000001", "John", "Doe", "Mr.", 2000, 10.75);
         Worker worker2 = new Worker("000002", "Jane", "Doe", "Mrs.", 1990, 18.50);
         Worker worker3 = new Worker("000003", "Tom", "Smith", "Mr.", 1980, 22.75);
