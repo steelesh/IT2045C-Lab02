@@ -7,9 +7,8 @@
 
 <h1>Execution</h1>
 
-<p align="left">
-<img width="677" alt="Screen Shot 2022-06-29 at 4 36 39 PM" src="https://user-images.githubusercontent.com/94927484/176539991-784e47ea-7207-4a53-8e9d-b3e722a22606.png">
-</p>
+<h3>Results (Prints workers' pay throughout three weeks)</h3>
+<img width="500" alt="Screen Shot 2022-06-29 at 4 36 39 PM" src="https://user-images.githubusercontent.com/94927484/176539991-784e47ea-7207-4a53-8e9d-b3e722a22606.png">
 
 <h1>Built With</h1>
 <li>Java</li>
